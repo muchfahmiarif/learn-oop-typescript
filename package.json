@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "rm -rf build/ && tsc",
     "ts": "tsc -w",
-    "dev": "nodemon ./build/02property_method.js"
+    "dev": "nodemon ./build/03constructor2.js"
   },
   "keywords": [],
   "author": "",
