@@ -1,0 +1,18 @@
+{
+  "name": "learn-oop-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "rm -rf build/ && tsc",
+    "ts": "tsc -w",
+    "dev": "nodemon ./build/02property_method.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.5"
+  }
+}
