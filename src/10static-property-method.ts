@@ -11,6 +11,8 @@ class Ayam {
   }
 }
 
+// kalo static property/method, bisa langsung diakses dari class
 console.log(Ayam.jalan());
+
 const ayam2 = new Ayam();
 console.log(ayam2.getKaki());
