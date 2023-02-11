@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "rm -rf build/ && tsc",
     "ts": "tsc -w",
-    "dev": "nodemon ./build/27namespace.js"
+    "dev": "nodemon ./build/28type-vs-interface.js"
   },
   "keywords": [],
   "author": "",
