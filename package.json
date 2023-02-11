@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "rm -rf build/ && tsc",
     "ts": "tsc -w",
-    "dev": "nodemon ./build/20generic-interface.js"
+    "dev": "nodemon ./build/21generic-type.js"
   },
   "keywords": [],
   "author": "",
