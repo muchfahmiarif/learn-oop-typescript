@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "rm -rf build/ && tsc",
     "ts": "tsc -w",
-    "dev": "nodemon ./build/25generic-class-constraints.js"
+    "dev": "nodemon ./build/26type-parameter-in-generic-constraint.js"
   },
   "keywords": [],
   "author": "",
